@@ -105,7 +105,6 @@ All task pipelines live under `code/feature_extraction_pipeline/`.
 
 **Run:**
 ```bash
-```bash
 python smile_feature_extraction.py --video_files_directory=raw_videos --openface_files_directory=openface_extracts --output_dir=extracted_features 2>/dev/null
 ```
 
